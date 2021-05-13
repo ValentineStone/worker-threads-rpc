@@ -1,0 +1,27 @@
+{
+  "name": "@valentine-stone/worker-threads-rpc",
+  "version": "0.0.1",
+  "description": "Node Worker threads async class-based rpc",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentineStone/worker-threads-rpc.git"
+  },
+  "keywords": [
+    "worker",
+    "threads",
+    "rpc",
+    "async",
+    "class",
+    "typescript"
+  ],
+  "author": "Leonid Romanovsky <sirLeonidRomanovsky@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValentineStone/worker-threads-rpc/issues"
+  },
+  "homepage": "https://github.com/ValentineStone/worker-threads-rpc#readme",
+  "devDependencies": {
+    "@types/node": "^15.0.3"
+  }
+}
